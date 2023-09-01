@@ -12,61 +12,19 @@
     (property "Datasheet" "" (id 3) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (symbol "adafruit-MAX98357_0_1"
+      (rectangle (start -12.7 15.24) (end 12.7 -15.24)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
+      )
+    )
     (symbol "adafruit-MAX98357_1_0"
       (polyline
         (pts
-          (xy -12.7 -15.24)
-          (xy 12.7 -15.24)
-        )
-        (stroke (width 0.254) (type default) (color 0 0 0 0))
-        (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy -12.7 -10.16)
-          (xy -12.7 -15.24)
-        )
-        (stroke (width 0.254) (type default) (color 0 0 0 0))
-        (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy -12.7 -10.16)
-          (xy -12.7 10.16)
-        )
-        (stroke (width 0.254) (type default) (color 0 0 0 0))
-        (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy -12.7 10.16)
-          (xy -12.7 15.24)
-        )
-        (stroke (width 0.254) (type default) (color 0 0 0 0))
-        (fill (type none))
-      )
-      (polyline
-        (pts
           (xy -12.7 10.16)
           (xy 12.7 10.16)
         )
-        (stroke (width 0.254) (type default) (color 0 0 0 0))
-        (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy -12.7 15.24)
-          (xy 12.7 15.24)
-        )
-        (stroke (width 0.254) (type default) (color 0 0 0 0))
-        (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 12.7 -15.24)
-          (xy 12.7 -10.16)
-        )
-        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (stroke (width 0) (type default) (color 0 0 0 0))
         (fill (type none))
       )
       (polyline
@@ -74,23 +32,7 @@
           (xy 12.7 -10.16)
           (xy -12.7 -10.16)
         )
-        (stroke (width 0.254) (type default) (color 0 0 0 0))
-        (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 12.7 10.16)
-          (xy 12.7 -10.16)
-        )
-        (stroke (width 0.254) (type default) (color 0 0 0 0))
-        (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 12.7 15.24)
-          (xy 12.7 10.16)
-        )
-        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (stroke (width 0) (type default) (color 0 0 0 0))
         (fill (type none))
       )
       (text "2.5-5.5V_-40~85°C" (at -4.445 -13.97 0)
